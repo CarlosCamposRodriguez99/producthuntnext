@@ -8,9 +8,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/babel-preset-css-prop": "^11.2.0",
+    "@emotion/core": "^11.0.0",
+    "@emotion/styled": "^11.6.0",
+    "async-await": "^0.1.40",
+    "babel-plugin-emotion": "^11.0.0",
+    "css": "^3.0.0",
+    "firebase": "8.9",
+    "firebase-admin": "^10.0.1",
+    "global": "^4.4.0",
     "next": "12.0.7",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "npm-check-updates": "^12.2.1",
+    "react": "^17.0.2",
+    "react-dom": "17.0.2",
+    "react-next": "^0.0.1"
   },
   "devDependencies": {
     "eslint": "8.5.0",
